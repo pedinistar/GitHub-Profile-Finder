@@ -1,0 +1,15 @@
+vercel link add
+1. Search Username Functionality
+2. Fetching API data Functionality
+3. Recent Searchs Functionality
+4. Multiple API calls for Repo Links
+   Add:
+   Top 5 repos
+   Stars ⭐
+   Repo links
+
+Add:
+
+Repo list (top 5 repos)
+Loading spinner
+Better empty/error UI
