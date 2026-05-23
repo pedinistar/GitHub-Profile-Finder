@@ -4,8 +4,8 @@ import { IoMdFlag } from "react-icons/io";
 
 function UserProfile({ userData, latestRepos }) {
   return (
-    <div className="px-40 flex flex-col lg:flex-row justify-center items-center lg:items-start gap-20 pt-10">
-      <div className="w-[40%] px-10">
+    <div className="px-10 lg:px-40 flex flex-col md:flex-row justify-center items-start lg:items-start gap-10 lg:gap-20 pt-10 lg:pb-5">
+      <div className="w-full md:w-[60%] lg:w-[40%]">
         <div className="profile-card mt-6">
           <div className="profile-header flex gap-5">
             <div className="img-container w-14 h-14 border-2 border-(--lighter-border) rounded-full overflow-hidden">

@@ -2,7 +2,7 @@ import RepoCard from "./RepoCard";
 
 function ReposList({ latestRepos }) {
   return (
-    <div className="w-[40%] mt-6">
+    <div className="lg:w-[40%] lg:mt-6">
       <h3 className="font-semibold border-b-3 py-1 border-(--primary) inline-block">
         Latest Repositories
       </h3>
